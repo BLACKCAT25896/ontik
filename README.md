@@ -1,7 +1,7 @@
 # Ontik Interview
 
 
-## Ontik Documentation
+## Firebase Setup
 
 Setup Firebase for Push Notification
 First you have to change your package name. If you didn’t then follow this.
